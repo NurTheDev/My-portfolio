@@ -171,3 +171,41 @@ margin-bottom: 10px;
 .dwn-btn{
     text-align: center;
 }
+.social-img{
+    height: 24px;
+    width: 24px;
+}
+footer{
+    display: flex;
+    gap: 100px;
+    margin: 100px 10px;
+}
+.input-infor{
+    display: block;
+    margin: 15px 0px;
+    width: 50vw;
+    border: 2px solid gray;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 20px;
+}
+.fotter-section{
+    width: 50%;
+    padding: 0px 30px;
+}
+input:nth-child(3){
+    height: 100px;
+}
+.fotter-discrip{
+    padding-bottom: 20px;
+    padding: 20px 0px;
+    color: #474747;
+    font-size: 16px;
+    font-weight: 400;
+}
+.social-img{
+    margin: 10px;
+}
+section{
+    margin-top: 200px;
+}
